@@ -1,0 +1,12 @@
+scalastyle-config.xml
+target/
+project/project/
+project/target/
+.idea/
+.bsp/
+.sbtopts
+*.iml
+.cache
+.classpath
+.project
+.settings
